@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nemanja Pakaski -- nemanja.oaasda@sdas.rs 0643403076
 
 # THANKS
 
