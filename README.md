@@ -22,4 +22,4 @@ Please fork this repo bla bla
 
 ## Copyright
 
-2022 notice
+2022 notice All right reserved.
