@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 ## Deployment
+
+## Copyright
+
+2022 notice
